@@ -1,2 +1,7 @@
 # 디폴트 무시된 파일
+workspace.xml
+discord.xml
+misc.xml
+modules.xml
+vcs.xml
 /shelf/
