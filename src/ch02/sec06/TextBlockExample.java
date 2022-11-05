@@ -9,14 +9,12 @@ public class TextBlockExample {
                 "\t\"id\": \"winter\",\n" +
                 "\t\"name\": \"눈송이\"\n" +
                 "}";
-
         String str2 = """
                 {
                 "id": "winter",
                 "name": "눈송이"
                 }
                 """;
-
         System.out.println(str1);
         System.out.println("--------------------------");
         System.out.println(str2);
@@ -27,7 +25,6 @@ public class TextBlockExample {
                 학습합니다.
                 나는 자바 고수가 될 겁니다.
                 """;
-
         System.out.println(str);
 
     }
