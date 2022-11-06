@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e883c70a-2bc7-40ee-bde7-b4dbc4bfc430" name="변경" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/MyCode/JudgeGradeByScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec10/AssignmentOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec11/ConditionalOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyCode/PrintAllKorean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfDiceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfElseIfElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfNestedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchCharExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchExpressionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchNotBreakCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchValueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec04/FloatCounterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec04/PrintFor1To10Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec04/SumFrom1To100Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667714250201</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Initial commit">
+      <created>1667715752317</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667715752317</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
