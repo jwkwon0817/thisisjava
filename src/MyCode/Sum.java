@@ -1,6 +1,7 @@
 package MyCode;
 
 import java.util.Scanner;
+import java.math.BigDecimal;
 
 public class Sum {
 
@@ -13,13 +14,13 @@ public class Sum {
 
         System.out.println("첫번째 숫자: ");
         String firstNum = scanner.next();
-        double Num1 = Double.parseDouble(firstNum);
+        BigDecimal Num1 = new BigDecimal(firstNum);
 
         System.out.println("두번째 숫자: ");
         String secondNum = scanner.next();
-        double Num2 = Double.parseDouble(secondNum);
+        BigDecimal Num2 = new BigDecimal(secondNum);
 
-        String result = String.valueOf((Num1 + Num2));
+        String result = String.valueOf(Num1.add(Num2));
 
         System.out.println("-------------------------");
         System.out.println("결과: " + Float.parseFloat(result));
