@@ -2,11 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e883c70a-2bc7-40ee-bde7-b4dbc4bfc430" name="변경" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec07/MultidimensionalArrayByNewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec08/ArrayReferenceObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyByForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyCode/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec10/AdvancedForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec11/MainStringArrayArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec12/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec12/WeekExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec03/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec04/StudentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam02/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam02/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam02/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam03/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam04/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam05/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam05/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam01/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam02/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam02/ComputerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam03/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam04/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec09/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec09/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam01/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam02/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam02/TelevisionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam01/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam01/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam02/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam02/EarthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec12/hankook/SnowTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec12/hankook/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec12/hyundai/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec12/kumho/AllSeasonTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec12/kumho/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam01/package1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam01/package1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam01/package2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec14/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec14/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec15/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec15/SingletonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/SmartPhoneExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCode/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyCode/Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +76,7 @@
       <list>
         <option value="package-info" />
         <option value="module-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -53,6 +112,41 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="JudgeGradeByScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyCode.JudgeGradeByScore" />
+      <module name="thisisjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainStringArrayArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05.sec11.MainStringArrayArgument" />
+      <module name="thisisjava" />
+      <option name="PROGRAM_PARAMETERS" value="10 20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch05.sec11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.MainStringArrayArgument" />
+        <item itemvalue="애플리케이션.JudgeGradeByScore" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -209,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667816042978</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Initial commit">
+      <created>1667821540318</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667821540318</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -9,7 +9,6 @@ public class Sum {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("소수점 입력 시 부동 소수점에 의해서 6자리까지만 계산됩니다.");
         System.out.println("-------------------------");
 
         System.out.println("첫번째 숫자: ");
