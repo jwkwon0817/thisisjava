@@ -1,4 +1,4 @@
-package MyCode;
+package mycode;
 
 public class PrintAllKorean {
 

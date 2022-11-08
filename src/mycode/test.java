@@ -1,4 +1,4 @@
-package MyCode;
+package mycode;
 
 public class test {
 
@@ -21,7 +21,7 @@ public class test {
             }
         }
 
-        avg = (double) sum / count;
+        avg = sum / count;
 
         System.out.println(avg);
 

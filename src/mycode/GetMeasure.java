@@ -1,4 +1,4 @@
-package MyCode;
+package mycode;
 
 import java.util.Scanner;
 

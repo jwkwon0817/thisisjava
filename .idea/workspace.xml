@@ -2,57 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e883c70a-2bc7-40ee-bde7-b4dbc4bfc430" name="변경" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/SmartPhoneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/SmartPhoneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec04/exam01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec04/exam01/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec04/exam01/ComputerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec04/exam02/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec04/exam02/SupersonicAirplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec04/exam02/SupersonicAirplaneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/exam01/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/exam01/VeryImportantPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/exam02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/exam02/SportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/package1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/package1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/package2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/package2/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam01/PromotionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/ChildExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/ChildExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/CarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/HankookTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/KumhoTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/DriverExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/InstanceofExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/PhoneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/AbstractMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mycode/blockgame/BlockGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCode/GetMeasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/GetMeasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCode/JudgeGradeByScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/JudgeGradeByScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCode/PrintAllKorean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/PrintAllKorean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCode/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCode/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,21 +50,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="JudgeGradeByScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyCode.JudgeGradeByScore" />
+    <configuration name="BlockGame$MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mycode.blockgame.BlockGame$MyFrame" />
       <module name="thisisjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyCode.*" />
+          <option name="PATTERN" value="mycode.blockgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JudgeGradeByScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mycode.JudgeGradeByScore" />
+      <module name="thisisjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mycode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BlockGame$MyFrame" />
         <item itemvalue="애플리케이션.JudgeGradeByScore" />
         <item itemvalue="애플리케이션.MainStringArrayArgument" />
       </list>
@@ -305,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667838232563</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Initial commit">
+      <created>1667897068146</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667897068146</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
