@@ -1,9 +1,7 @@
 package ch02.sec06;
 
 public class TextBlockExample {
-
     public static void main(String[] args) {
-
         String str1 = "" +
                 "{\n" +
                 "\t\"id\": \"winter\",\n" +
@@ -26,7 +24,5 @@ public class TextBlockExample {
                 나는 자바 고수가 될 겁니다.
                 """;
         System.out.println(str);
-
     }
-
 }

@@ -1,7 +1,6 @@
 package ch06.sec09;
 
 public class Car {
-
     // 필드 선언
     String model;
     int speed;
@@ -20,5 +19,4 @@ public class Car {
         this.setSpeed(100);
         System.out.println(this.model + "(이)가 달립니다. (시속: " + this.speed + "km/h)");
     }
-
 }

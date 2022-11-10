@@ -1,9 +1,7 @@
 package ch02.sec10;
 
 public class PrimitiveAndStringConversionExample {
-
     public static void main(String[] args) {
-
         int value1 = Integer.parseInt("10");
         double value2 = Double.parseDouble("3.14");
         boolean value3 = Boolean.parseBoolean("true");
@@ -19,7 +17,5 @@ public class PrimitiveAndStringConversionExample {
         System.out.println("str1: " + str1);
         System.out.println("str2: " + str2);
         System.out.println("str3: " + str3);
-
     }
-
 }

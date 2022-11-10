@@ -1,7 +1,6 @@
 package ch06.sec07.exam04;
 
 public class Car {
-
     // 필드 선언
     String company = "현대 자동차";
     String model;
@@ -25,5 +24,4 @@ public class Car {
             this.color = color;
             this.maxSpeed = maxSpeed;
     }
-
 }

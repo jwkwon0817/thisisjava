@@ -1,7 +1,6 @@
 package ch06.sec07.exam02;
 
 public class Korean {
-
     // 필드 선언
     String nation = "대한민국";
     String name;
@@ -12,5 +11,4 @@ public class Korean {
         name = n;
         ssn = s;
     }
-
 }

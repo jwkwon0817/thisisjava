@@ -1,7 +1,6 @@
 package ch06.sec08.exam01;
 
 public class Calculator {
-
     // 리턴값이 없는 메소드 선언
     void powerOn() {
         System.out.println("전원을 켭니다.");
@@ -25,5 +24,4 @@ public class Calculator {
         double result = (double)x / (double)y;
         return result; // 리턴값 지정
     }
-
 }

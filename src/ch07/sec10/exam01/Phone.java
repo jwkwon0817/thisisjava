@@ -1,7 +1,6 @@
 package ch07.sec10.exam01;
 
 public class Phone {
-
     // 필드 선언
     String owner;
 
@@ -17,5 +16,4 @@ public class Phone {
     void turnOff() {
         System.out.println("폰 전원을 끕니다.");
     }
-
 }

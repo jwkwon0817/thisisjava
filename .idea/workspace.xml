@@ -2,8 +2,271 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e883c70a-2bc7-40ee-bde7-b4dbc4bfc430" name="변경" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec03/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec03/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec04/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec04/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec04/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec04/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec05/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec05/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec05/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec05/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec06/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec06/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec06/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec06/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec07/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec07/ServiceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec07/ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec08/MultiInterfaceImplExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec08/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec08/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec08/SmartTelevision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/ExtendsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/InterfaceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/InterfaceCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/PromotionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam02/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam02/CastingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam02/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam01/HankookTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam01/KumhoTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam01/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam02/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam02/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam02/DriverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam02/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec11/exam02/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec12/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec12/InstanceofExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec12/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec12/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec13/ImplClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec13/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec13/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec13/InterfaceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec13/SealedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam01/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam01/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam02/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam03/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec05/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec05/exam02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec05/exam02/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam01/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam02/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam03/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam03/ButtonExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/sec09/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/sec09/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/sec12/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/sec12/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec01/VariableExchangeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec01/VariableExchangeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec01/VariableUseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec01/VariableUseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec02/ByteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec02/ByteExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec02/IntegerLiteralExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec02/IntegerLiteralExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec02/LongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec02/LongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec03/CharExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec03/CharExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec04/FloatDoubleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec04/FloatDoubleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec05/BooleanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec05/BooleanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec06/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec06/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec06/TextBlockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec06/TextBlockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec07/PromotionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec07/PromotionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec08/CastingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec08/CastingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec09/OperationPromotionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec09/OperationPromotionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec09/StringConcatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec09/StringConcatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec10/PrimitiveAndStringConversionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec10/PrimitiveAndStringConversionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec11/VariableScopeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec11/VariableScopeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec12/PrintfExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec12/PrintfExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/sec13/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec13/ScannerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec01/IncreaseDecreaseOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec01/IncreaseDecreaseOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec01/SignOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec01/SignOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec02/ArithmeticOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec02/ArithmeticOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec03/OverflowUnderflowExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec03/OverflowUnderflowExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec04/AccuracyExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec04/AccuracyExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec04/AccuracyExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec04/AccuracyExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec05/InfinityAndNaNCheckExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec05/InfinityAndNaNCheckExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec06/CompareOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec06/CompareOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec07/LogicalOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec07/LogicalOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec08/BitLogicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec08/BitLogicExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec09/BitShiftExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec09/BitShiftExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec09/BitShiftExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec09/BitShiftExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec10/AssignmentOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec10/AssignmentOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/sec11/ConditionalOperationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec11/ConditionalOperationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec02/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec02/IfDiceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec02/IfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec02/IfElseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec02/IfElseIfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec02/IfElseIfElseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec02/IfExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec02/IfExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec02/IfNestedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec02/IfNestedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec03/SwitchCharExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchCharExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec03/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec03/SwitchExpressionsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchExpressionsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec03/SwitchNotBreakCaseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchNotBreakCaseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec03/SwitchValueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchValueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec04/FloatCounterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec04/FloatCounterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec04/MultiplicationTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec04/MultiplicationTableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec04/PrintFor1To10Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec04/PrintFor1To10Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec04/SumFrom1To100Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec04/SumFrom1To100Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec05/KeyControlExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec05/KeyControlExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec05/PrintFrom1To10Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec05/PrintFrom1To10Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec05/SumFrom1To100Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec05/SumFrom1To100Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec06/DoWhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec06/DoWhileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec07/BreakExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec07/BreakExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec07/BreakOutterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec07/BreakOutterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/sec08/ContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec08/ContinueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec03/ReferenceVariableCompareExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec03/ReferenceVariableCompareExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec04/GarbageObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec04/GarbageObjectExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec04/NullPointerExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec04/NullPointerExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec05/CharAtExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec05/CharAtExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec05/EmptyStringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec05/EmptyStringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec05/EqualsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec05/EqualsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec05/IndexOfContainsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec05/IndexOfContainsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec05/LengthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec05/LengthExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec05/ReplaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec05/ReplaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec05/SplitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec05/SplitExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec05/SubStringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec05/SubStringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByNewExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByNewExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec06/ArrayLengthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayLengthExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec07/MultidimensionalArrayByNewExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec07/MultidimensionalArrayByNewExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec07/MultidimensionalArrayByValueListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec07/MultidimensionalArrayByValueListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec08/ArrayReferenceObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec08/ArrayReferenceObjectExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyByForExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyByForExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec10/AdvancedForExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec10/AdvancedForExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec11/MainStringArrayArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec11/MainStringArrayArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/sec12/WeekExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec12/WeekExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec03/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec03/SportsCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec04/StudentExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec04/StudentExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec06/exam01/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec06/exam01/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec06/exam01/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec06/exam01/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec06/exam02/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec06/exam02/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec06/exam02/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec06/exam02/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam01/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam01/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam01/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam01/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam02/Korean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam02/Korean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam02/KoreanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam02/KoreanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam03/Korean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam03/Korean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam04/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam04/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam04/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam04/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam05/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam05/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec07/exam05/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec07/exam05/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec08/exam01/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec08/exam01/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec08/exam01/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec08/exam01/CalculatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec08/exam02/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec08/exam02/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec08/exam02/ComputerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec08/exam02/ComputerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec08/exam03/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec08/exam03/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec08/exam03/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec08/exam03/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec08/exam04/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec08/exam04/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec08/exam04/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec08/exam04/CalculatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec09/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec09/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec09/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec09/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec10/exam01/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec10/exam01/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec10/exam01/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec10/exam01/CalculatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec10/exam02/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec10/exam02/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec10/exam02/TelevisionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec10/exam02/TelevisionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec10/exam03/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec10/exam03/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec11/exam01/Korean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec11/exam01/Korean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec11/exam01/KoreanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec11/exam01/KoreanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec11/exam02/Earth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec11/exam02/Earth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec11/exam02/EarthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec11/exam02/EarthExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec12/hyundai/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec12/hyundai/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec13/exam01/package1/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec13/exam01/package1/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec13/exam01/package2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec13/exam01/package2/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec13/exam02/package1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec13/exam02/package1/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package1/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec13/exam02/package2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package2/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec13/exam03/package1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec13/exam03/package1/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package1/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec13/exam03/package2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package2/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec14/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec14/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec14/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec14/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec15/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec15/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/sec15/SingletonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/sec15/SingletonExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec02/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec02/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec02/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec02/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec02/SmartPhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec02/SmartPhoneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec03/exam01/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec03/exam01/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec03/exam01/SmartPhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/SmartPhoneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec03/exam02/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec03/exam02/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec03/exam02/SmartPhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/SmartPhoneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec04/exam01/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec04/exam01/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec04/exam01/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec04/exam01/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec04/exam01/ComputerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec04/exam01/ComputerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec04/exam02/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec04/exam02/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec04/exam02/SupersonicAirplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec04/exam02/SupersonicAirplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec04/exam02/SupersonicAirplaneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec04/exam02/SupersonicAirplaneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec05/exam01/VeryImportantPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec05/exam01/VeryImportantPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec05/exam02/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec05/exam02/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec05/exam02/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec05/exam02/SportsCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec06/package1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec06/package1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec06/package1/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec06/package1/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec06/package2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec06/package2/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec06/package2/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec06/package2/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec07/exam01/PromotionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec07/exam01/PromotionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec07/exam02/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec07/exam02/ChildExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/ChildExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec07/exam02/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec07/exam03/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec07/exam03/ChildExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/ChildExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec07/exam03/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam01/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam01/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam01/HankookTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/HankookTire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam01/KumhoTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/KumhoTire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam01/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/Tire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam02/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam02/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam02/DriverExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/DriverExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam02/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Taxi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec08/exam02/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec09/InstanceofExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec09/InstanceofExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec09/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec09/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec09/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec09/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec10/exam01/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec10/exam01/PhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/PhoneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec10/exam01/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec10/exam02/AbstractMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/AbstractMethodExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec10/exam02/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec10/exam02/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec10/exam02/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec11/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec11/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec11/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec11/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec11/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec11/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec11/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec11/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch07/sec11/SealedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec11/SealedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mycode/GetMeasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/GetMeasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mycode/JudgeGradeByScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/JudgeGradeByScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mycode/PrintAllKorean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/PrintAllKorean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mycode/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mycode/blockgame/BlockGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/blockgame/BlockGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mycode/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +279,9 @@
         <option value="module-info" />
         <option value="Enum" />
         <option value="package-info" />
+        <option value="Record" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,58 +314,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="BlockGame$MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mycode.blockgame.BlockGame$MyFrame" />
-      <module name="thisisjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mycode.blockgame.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JudgeGradeByScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mycode.JudgeGradeByScore" />
-      <module name="thisisjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mycode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainStringArrayArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.sec11.MainStringArrayArgument" />
-      <module name="thisisjava" />
-      <option name="PROGRAM_PARAMETERS" value="10 20" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch05.sec11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="애플리케이션.BlockGame$MyFrame" />
-        <item itemvalue="애플리케이션.JudgeGradeByScore" />
-        <item itemvalue="애플리케이션.MainStringArrayArgument" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -284,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667912299412</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Initial commit">
+      <created>1667913979533</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913979533</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

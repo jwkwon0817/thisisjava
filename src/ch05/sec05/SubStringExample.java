@@ -1,9 +1,7 @@
 package ch05.sec05;
 
 public class SubStringExample {
-
     public static void main(String[] args) {
-
         String ssn = "080817-3012345";
 
         // substring(a, b) -> index a ~ index (b-1)
@@ -16,7 +14,5 @@ public class SubStringExample {
 
         String secondNum = ssn.substring(7);
         System.out.println(secondNum);
-
     }
-
 }

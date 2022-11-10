@@ -32,5 +32,4 @@ public class A {
     // private 접근 제한을 갖는 메소드 선언
     private void method3() {
     }
-
 }

@@ -1,7 +1,6 @@
 package ch07.sec03.exam02;
 
 public class Phone {
-
     // 필드 선언
     public String model;
     public String color;
@@ -12,5 +11,4 @@ public class Phone {
         this.color = color;
         System.out.println("Phone(String model, String Color) 생성자 실행");
     }
-
 }

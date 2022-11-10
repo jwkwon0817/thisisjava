@@ -1,9 +1,7 @@
 package ch06.sec11.exam01;
 
 public class KoreanExample {
-
     public static void main(String[] args) {
-
         // 객체 생성 시 주민등록번호와 이름 전달
         Korean k1 = new Korean("123456-123456", "권자바");
 
@@ -19,7 +17,5 @@ public class KoreanExample {
         // final이 아닌 필드는 값 변경 가능
         k1.name = "김자바";
         System.out.println("개명된 이름: " + k1.name);
-
     }
-
 }

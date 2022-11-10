@@ -1,9 +1,7 @@
 package ch06.sec14;
 
 public class CarExample {
-
     public static void main(String[] args) {
-
         // 객체 생성
         Car myCar = new Car();
 
@@ -16,11 +14,9 @@ public class CarExample {
         System.out.println("현재 속도: " + myCar.getSpeed());
 
         // 멈춤
-        if(! myCar.isStop()) {
+        if (! myCar.isStop()) {
             myCar.setStop(true);
         }
         System.out.println("현재 속도: " + myCar.getSpeed());
-
     }
-
 }

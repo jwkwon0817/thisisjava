@@ -1,9 +1,7 @@
 package ch03.sec09;
 
 public class BitShiftExample1 {
-
     public static void main(String[] args) {
-
         // a << b = a * 2^b
         // a >> b = a / 2^b
 
@@ -18,7 +16,5 @@ public class BitShiftExample1 {
         int result4 = num2 / (int) Math.pow(2, 3);
         System.out.println("result3: " + result3);
         System.out.println("result4: " + result4);
-
     }
-
 }

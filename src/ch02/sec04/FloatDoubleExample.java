@@ -1,9 +1,7 @@
 package ch02.sec04;
 
 public class FloatDoubleExample {
-
     public static void main(String[] args) {
-
         // 정밀도 확인
         float var1 = 0.123456780123456789f;
         double var2 = 0.1234567890123456789;
@@ -17,7 +15,5 @@ public class FloatDoubleExample {
         System.out.println("var3: " + var3);
         System.out.println("var4: " + var4);
         System.out.println("var5: " + var5);
-
     }
-
 }

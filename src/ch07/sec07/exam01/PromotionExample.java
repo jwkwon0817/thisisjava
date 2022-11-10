@@ -17,7 +17,6 @@ class E extends C {
 
 public class PromotionExample {
     public static void main(String[] args) {
-
         B b = new B();
         C c = new C();
         D d = new D();
@@ -33,8 +32,9 @@ public class PromotionExample {
         C c1 = e;
 
         // 컴파일 에러 (상속 관계에 있지 않음.)
-        // B b3 = e;
-        // C c2 = d;
-
+        /*
+        B b3 = e;
+        C c2 = d;
+         */
     }
 }

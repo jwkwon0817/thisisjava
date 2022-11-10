@@ -1,18 +1,17 @@
 package ch07.sec02;
 
 public class Phone {
-
     // 필드 선언
     public String model;
     public String color;
 
     // 메소드 선언
     public void bell() {
-        System.out.println("벨이 울립니다.");
+        System.out.println("The bell rings.");
     }
 
     public void sendVoice(String message) {
-        System.out.println("자신: " + message);
+        System.out.println("나: " + message);
     }
 
     public void receiveVoice(String message) {
@@ -20,7 +19,6 @@ public class Phone {
     }
 
     public void hangUp() {
-        System.out.println("전화를 끊습니다.");
+        System.out.println("전화를 끊었습니다.");
     }
-
 }

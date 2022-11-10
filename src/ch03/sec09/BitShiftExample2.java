@@ -1,10 +1,8 @@
 package ch03.sec09;
 
 public class BitShiftExample2 {
-
     public static void main(String[] args) {
-
-        int value = 772; // [00000000] [00000000] [00000011] [00000100]
+        int value = 772;        // [00000000] [00000000] [00000011] [00000100]
 
         // 우측으로 3byte(24bit) 이동하고 끝 1byte만 읽음: [00000000]
         byte byte1 = (byte) (value >>> 24);

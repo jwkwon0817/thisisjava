@@ -1,9 +1,7 @@
 package ch05.sec05;
 
 public class EmptyStringExample {
-
     public static void main(String[] args) {
-
         String hobby = "";
 
         if(hobby.equals("")) {
@@ -11,13 +9,11 @@ public class EmptyStringExample {
         }
 
         /*
-        if(hobby == "") {
-            System.out.println("True");
+        if (hobby == "") {
+            System.out.println("true");
         } else {
-            System.out.println("False");
+            System.out.println("false");
         }
         */
-
     }
-
 }

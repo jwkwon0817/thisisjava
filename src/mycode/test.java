@@ -1,9 +1,7 @@
 package mycode;
 
 public class test {
-
     public static void main(String[] args) {
-
         int[][] arr = {
                 { 95, 86 },
                 { 83, 92, 96 },
@@ -14,8 +12,8 @@ public class test {
         double avg = 0;
         int count = 0;
 
-        for(int i=0; i<arr.length; i++) {
-            for(int j=0; j<arr[i].length; j++) {
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
                 count += 1;
                 sum += arr[i][j];
             }
@@ -24,9 +22,5 @@ public class test {
         avg = sum / count;
 
         System.out.println(avg);
-
     }
-
-
-
 }

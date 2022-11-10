@@ -3,9 +3,7 @@ package ch04.sec06;
 import java.util.Scanner;
 
 public class DoWhileExample {
-
     public static void main(String[] args) {
-
         System.out.println("메시지를 입력하세요.");
         System.out.println("프로그램을 종료하려면 \"quit()\"을 입력하세요.");
 
@@ -17,11 +15,9 @@ public class DoWhileExample {
             System.out.print("> ");
             inputString = scanner.nextLine();
             System.out.println(inputString);
-        } while( ! inputString.equals("quit()") );
+        } while (! inputString.equals("quit()"));
 
         System.out.println();
         System.out.println("[ 프로그램 종료 ]");
-
     }
-
 }

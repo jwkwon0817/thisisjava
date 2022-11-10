@@ -1,7 +1,6 @@
 package ch07.sec05.exam02;
 
 public class Car {
-
     // 필드 선언
     public int speed;
 
@@ -15,5 +14,4 @@ public class Car {
         System.out.println("차를 멈춥니다.");
         speed = 0;
     }
-
 }

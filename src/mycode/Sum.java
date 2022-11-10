@@ -4,9 +4,7 @@ import java.util.Scanner;
 import java.math.BigDecimal;
 
 public class Sum {
-
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("-------------------------");
@@ -23,6 +21,5 @@ public class Sum {
 
         System.out.println("-------------------------");
         System.out.println("결과: " + Float.parseFloat(result));
-
     }
 }

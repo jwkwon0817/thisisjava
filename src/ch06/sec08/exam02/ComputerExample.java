@@ -1,9 +1,7 @@
 package ch06.sec08.exam02;
 
 public class ComputerExample {
-
     public static void main(String[] args) {
-
         // Computer 객체 생성
         Computer myCom = new Computer();
 
@@ -27,7 +25,5 @@ public class ComputerExample {
         // 합산 결과를 리턴 받아 result4 변수에 대입
         int result4 = myCom.sum(new int[] { 1, 2, 3, 4, 5 });
         System.out.println("result4: " + result4);
-
     }
-
 }

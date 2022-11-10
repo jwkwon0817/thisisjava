@@ -1,7 +1,6 @@
 package ch06.sec10.exam03;
 
 public class Car {
-
     // 인스턴스 필드 선언
     int speed;
 
@@ -28,5 +27,4 @@ public class Car {
     void run() {
         System.out.println(speed + "km/h으로 달립니다.");
     }
-
 }

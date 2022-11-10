@@ -1,9 +1,7 @@
 package ch06.sec08.exam01;
 
 public class CalculatorExample {
-
     public static void main(String[] args) {
-
         // Calculator 객체 생성
         Calculator myCalc = new Calculator();
 
@@ -24,7 +22,5 @@ public class CalculatorExample {
 
         // 리턴값이 없는 powerOff() 메소드 호출
         myCalc.powerOff();
-
     }
-
 }

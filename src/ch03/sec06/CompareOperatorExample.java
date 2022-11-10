@@ -1,9 +1,7 @@
 package ch03.sec06;
 
 public class CompareOperatorExample {
-
     public static void main(String[] args) {
-
         int num1 = 10;
         int num2 = 10;
         boolean result1 = (num1 == num2);
@@ -15,7 +13,7 @@ public class CompareOperatorExample {
 
         char char1 = 'A';
         char char2 = 'B';
-        boolean result4 = (char1 < char2); // 65 < 66
+        boolean result4 = (char1 < char2);  // 65 < 66
         System.out.println("result4: " + result4);
 
         int num3 = 1;
@@ -36,7 +34,5 @@ public class CompareOperatorExample {
         boolean result9 = (!str1.equals(str2));
         System.out.println("result8: " + result8);
         System.out.println("result9: " + result9);
-
     }
-
 }

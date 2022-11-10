@@ -1,9 +1,7 @@
 package ch07.sec02;
 
 public class SmartPhoneExample {
-
     public static void main(String[] args) {
-
         // SmartPhone 객체 생성
         SmartPhone myPhone = new SmartPhone("갤럭시", "은색");
 
@@ -24,7 +22,5 @@ public class SmartPhoneExample {
         // SmartPhone의 메소드 호출
         myPhone.setWifi(true);
         myPhone.internet();
-
     }
-
 }

@@ -1,9 +1,7 @@
 package ch06.sec07.exam02;
 
 public class KoreanExample {
-
     public static void main(String[] args) {
-
         // Korean 객체 생성
         Korean k1 = new Korean("권자바", "011225-1234567");
         // Korean 객체 데이터 읽기
@@ -18,7 +16,5 @@ public class KoreanExample {
         System.out.println("k2.nation: " + k2.nation);
         System.out.println("k2.name: " + k2.name);
         System.out.println("k2.ssn: " + k2.ssn);
-
     }
-
 }

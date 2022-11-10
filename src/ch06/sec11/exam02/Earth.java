@@ -1,7 +1,6 @@
 package ch06.sec11.exam02;
 
 public class Earth {
-
     // 상수 선언 및 초기화
     static final double EARTH_RADIUS = 6400;
 
@@ -12,5 +11,4 @@ public class Earth {
     static {
         EARTH_SURFACE_AREA = 4 * Math.PI * EARTH_RADIUS * EARTH_RADIUS; // Math.PI는 Java에서 제공하는 상수
     }
-
 }
