@@ -29,7 +29,7 @@ public class CompareOperatorExample {
         System.out.println("result7: " + result7);
 
         String str1 = "자바";
-        String str2 = "Java";
+        String str2 = "Car";
         boolean result8 = (str1.equals(str2));
         boolean result9 = (!str1.equals(str2));
         System.out.println("result8: " + result8);

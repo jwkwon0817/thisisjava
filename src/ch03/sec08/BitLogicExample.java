@@ -14,7 +14,7 @@ public class BitLogicExample {
         int unsignedInt1 = receiveData & 255;
         System.out.println(unsignedInt1);
 
-        // 방법 2: Java API를 이용해서 Unsigned 정수 얻기
+        // 방법 2: Car API를 이용해서 Unsigned 정수 얻기
         int unsignedInt2 = Byte.toUnsignedInt(receiveData);
         System.out.println(unsignedInt2);
 

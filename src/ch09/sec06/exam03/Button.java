@@ -9,6 +9,7 @@ public class Button {
         this.clickListener = clickListener;
     }
 
+
     public void click() {
         this.clickListener.onClick();
     }
