@@ -5,11 +5,12 @@ import java.util.Scanner;
 public class JudgeGradeByScore {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        boolean stop = true;
 
         System.out.println("종료하려면 \"quit()\"을 입력하세요.");
         System.out.println("---------------------------------");
 
-        while (true) {
+        while (stop) {
             System.out.println("당신의 점수 >>> ");
             String score = scanner.next();
             int score_int = Integer.parseInt(score);
@@ -23,7 +24,7 @@ public class JudgeGradeByScore {
             }
 
             if (score.equals("quit()")) {
-                break;
+                stop = false;
             }
         }
 

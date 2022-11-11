@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e883c70a-2bc7-40ee-bde7-b4dbc4bfc430" name="변경" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam01/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mycode/blackjack/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch01/sec09/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/sec09/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/sec06/CompareOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec06/CompareOperatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/sec08/BitLogicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec08/BitLogicExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch04/sec03/SwitchValueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchValueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05/sec08/ArrayReferenceObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec08/ArrayReferenceObjectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/sec02/exam02/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/sec03/exam02/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/sec04/exam02/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec04/exam02/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/sec06/exam03/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec06/exam03/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mycode/JudgeGradeByScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/JudgeGradeByScore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668091711735</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Initial commit">
+      <created>1668092895287</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1668092895287</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
