@@ -2,7 +2,7 @@ package mycode.blackjack;
 
 import java.util.Scanner;
 
-public class Player {
+public class BlackJack {
     public static void main(String[] args) {
         // create new Scanner()
         Scanner scanner = new Scanner(System.in);
