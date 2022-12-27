@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>아린</title>
+
+    <!--
+      - favicon
+    -->
+    <link href=".static/images/favicon.svg" rel="icon" type="image/svg+xml">
+
+    <!--
+      - custom css link
+    -->
+    <link href="./static/css/style.css" rel="stylesheet">
+
+    <!--
+      - google font link
+    -->
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;700;900&display=swap"
+          rel="stylesheet">
+
+    <!--
+      - preload image
+    -->
+    <link as="image" href="./static/images/hero-banner.png" rel="preload">
+
+    <script src="https://js.tosspayments.com/v1/payment"></script>
+</head>
+
+<body id="top">
+
+<!--
+  - #HEADER
+-->
+
+<header class="header" data-header>
+    <div class="container">
+
+        <h1>
+            <a class="logo" href="/">아린</a>
+        </h1>
+
+        <nav class="navbar container" data-navbar>
+            <ul class="navbar-list">
+
+                <li class="navbar-item">
+                    <a class="navbar-link" data-nav-link href="#home">홈</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a class="navbar-link" data-nav-link href="#services">서비스</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a class="navbar-link" data-nav-link href="#features">기능</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a class="navbar-link" data-nav-link href="#about">하는일</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a class="navbar-link" data-nav-link href="#stats">스텟</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a class="navbar-link" data-nav-link href="#contact">문의</a>
+                </li>
+
+            </ul>
+        </nav>
+        <form action="/bot">
+            <button class="btn btn-secondary">초대</button>
+        </form>
+        <button aria-label="Toggle menu" class="nav-toggle-btn" data-nav-toggle-btn>
+            <ion-icon class="menu-icon" name="menu-outline"></ion-icon>
+            <ion-icon class="close-icon" name="close-outline"></ion-icon>
+        </button>
+
+    </div>
+</header>
+
+
+
+
+
+<main>
+    <article>
+
+        <!--
+          - #HERO
+        -->
+
+        <section class="section hero" id="home">
+            <div class="container">
+
+                <figure class="hero-banner">
+                    <img alt="hero banner"  class="w-100" loading="lazy"
+                         src="./static/images/아린이소풍모습.jfif">
+                </figure>
+
+                <div class="hero-content">
+
+                    <h2 class="h1 hero-title">아린이</h2>
+                    <form action="/discord" class="hero-form">
+                        <button class="btn btn-primary" type="submit">서버 입장하기</button>
+                    </form>
+                    <p class="section-text">
+                        파이썬으로 만든 <br>마이닝/RPG 슬커봇(/)입니다!
+                    </p>
+                    <br>
+                    <ul class="hero-list">
+
+                        <li class="hero-item">
+                            <img alt="Checkmark icon" height="16" loading="lazy" src="./static/images/check-circle.svg" width="16">
+
+                            <span class="span">마이닝</span>
+                        </li>
+
+                        <li class="hero-item">
+                            <img alt="Checkmark icon" height="16" loading="lazy" src="./static/images/check-circle.svg" width="16">
+
+                            <span class="span">RPG(제작중)</span>
+                        </li>
+
+                        <li class="hero-item">
+                            <img alt="Checkmark icon" height="16" loading="lazy" src="./static/images/check-circle.svg" width="16">
+
+                            <span class="span">관리</span>
+                        </li>
+
+                        <li class="hero-item">
+                            <img alt="Checkmark icon" height="16" loading="lazy" src="./static/images/check-circle.svg" width="16">
+
+                            <span class="span">경제</span>
+                        </li>
+
+                        <li class="hero-item">
+                            <img alt="Checkmark icon" height="16" loading="lazy" src="./static/images/check-circle.svg" width="16">
+
+                            <span class="span">노래</span>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+            <div>
+                mng 커뮤니티
+            </div>
+        </section>
+
+
+
+
+
+        <!--
+          - #SERVICE
+        -->
+
+        <section class="section service" id="services">
+            <div class="container">
+
+                <h2 class="h2 section-title">서비스</h2>
+
+                <p class="section-text">
+                    We provide you different services to you like
+                </p>
+
+                <ul class="service-list">
+
+                    <li>
+                        <div class="service-card">
+
+                            <figure class="card-banner">
+                                <img alt="support" class="w-100" height="344" loading="lazy" src="./static/images/service-1.gif"
+                                     width="728">
+                            </figure>
+
+                            <div class="card-content">
+
+                                <h3 class="h3">
+                                    <a class="card-title" href="#">24/7 온라인</a>
+                                </h3>
+
+                                <p class="card-text">
+                                    24/7 언제나 온라인으로 켜두고있습니다
+                                </p>
+
+                                <a class="btn-link" href="#">
+                                    <span class="span">Learn More</span>
+
+                                    <ion-icon aria-hidden="true" name="arrow-forward"></ion-icon>
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="service-card">
+
+                            <figure class="card-banner">
+                                <img alt="Engagement" class="w-100" height="344" loading="lazy" src="./static/images/service-2.gif"
+                                     width="728">
+                            </figure>
+
+                            <div class="card-content">
+
+                                <h3 class="h3">
+                                    <a class="card-title" href="#">Engagement</a>
+                                </h3>
+
+                                <p class="card-text">
+                                    We have active chats & you can enjoy chating with our members. You can make friends and work together.
+                                </p>
+
+                                <!--                   <a href="#" class="btn-link">
+                                                    <span class="span">Learn More</span>
+
+                                                    <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+                                                  </a> -->
+
+                            </div>
+
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="service-card">
+
+                            <figure class="card-banner">
+                                <img alt="Marketing" class="w-100" height="344" loading="lazy" src="./static/images/service-3.gif"
+                                     width="728">
+                            </figure>
+
+                            <div class="card-content">
+
+                                <h3 class="h3">
+                                    <a class="card-title" href="#">Games & Events</a>
+                                </h3>
+
+                                <p class="card-text">
+                                    We organize differents events in stage channel. Also, we play many games together with our members. Winner will get awesome gift.
+                                </p>
+
+                                <!--                   <a href="#" class="btn-link">
+                                                    <span class="span">Learn More</span>
+
+                                                    <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+                                                  </a> -->
+
+                            </div>
+
+                        </div>
+                    </li>
+
+                </ul>
+
+            </div>
+        </section>
+
+
+        <!--
+          - #ABOUT
+        -->
+
+        <section class="section about" id="about">
+            <div class="container">
+
+                <h2 class="h2 section-title">What We Do</h2>
+
+                <p class="section-text">
+                    Many peoples are bored staying home and doing nothing. Our goal is to create an interactive community where you can create and build ideas in the science and technology sectors.
+                </p>
+
+                <ul class="about-list">
+
+                    <li>
+                        <div class="about-card about-card-1">
+
+                            <figure class="card-banner">
+                                <img alt="Automated Ticket Routing" height="94" loading="lazy" src="./static/images/about-img-1.svg"
+                                     width="94">
+                            </figure>
+
+                            <div class="card-content">
+
+                                <h3 class="h3">
+                                    <a class="card-title" href="#">Ticket System</a>
+                                </h3>
+
+                                <p class="card-text">
+                                    We accept all the ticket you have opened and review it.
+                                </p>
+
+                                <!--                   <a href="#" class="btn-link">
+                                                    <span class="span">Learn More</span>
+
+                                                    <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+                                                  </a> -->
+
+                            </div>
+
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="about-card about-card-2">
+
+                            <figure class="card-banner">
+                                <img alt="Workflow Automation" height="94" loading="lazy" src="./static/images/about-img-2.svg"
+                                     width="94">
+                            </figure>
+
+                            <div class="card-content">
+
+                                <h3 class="h3">
+                                    <a class="card-title" href="#">Workflow</a>
+                                </h3>
+
+                                <p class="card-text">
+                                    We will help you to complete your project and solve your errors.
+                                </p>
+
+                                <!--                   <a href="#" class="btn-link">
+                                                    <span class="span">Learn More</span>
+
+                                                    <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+                                                  </a> -->
+
+                            </div>
+
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="about-card about-card-3">
+
+                            <figure class="card-banner">
+                                <img alt="Automated Callback" height="94" loading="lazy" src="./static/images/about-img-3.svg"
+                                     width="94">
+                            </figure>
+
+                            <div class="card-content">
+
+                                <h3 class="h3">
+                                    <a class="card-title" href="#">Youtube Video</a>
+                                </h3>
+
+                                <p class="card-text">
+                                    We will make installization tutorial of open source code.
+                                </p>
+
+                                <!--                   <a href="#" class="btn-link">
+                                                    <span class="span">Learn More</span>
+
+                                                    <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+                                                  </a> -->
+
+                            </div>
+
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="about-card about-card-4">
+
+                            <figure class="card-banner">
+                                <img alt="Customer Feedback Surveys" height="94" loading="lazy" src="./static/images/about-img-4.svg"
+                                     width="94">
+                            </figure>
+
+                            <div class="card-content">
+
+                                <h3 class="h3">
+                                    <a class="card-title" href="#">Customer Feedback Surveys</a>
+                                </h3>
+
+                                <p class="card-text">
+                                    We will review and make our community better by seeing feedback
+                                </p>
+
+                                <!--                   <a href="#" class="btn-link">
+                                                    <span class="span">Learn More</span>
+
+                                                    <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+                                                  </a> -->
+
+                            </div>
+
+                        </div>
+                    </li>
+
+                </ul>
+
+                <p class="section-text">
+                    더 많은 기능을 확인하려면
+                    <a class="btn-link" href="/discord">
+                        <span class="span">서버 입장하기</span>
+
+                        <ion-icon aria-hidden="true" name="arrow-forward"></ion-icon>
+                    </a>
+                </p>
+
+            </div>
+        </section>
+
+
+
+
+
+        <!--
+          - #STATS
+        -->
+
+        <section class="section stats" id="stats">
+            <div class="container">
+
+                <figure class="stats-banner">
+                    <img alt="stats" class="w-100" height="482" loading="lazy" src="./static/images/stats-banner.png"
+                         width="619">
+                </figure>
+
+                <ul class="stats-list">
+
+                    <li class="stats-item purple">
+                        <h3 class="item-title">
+                            {{servers}}
+                            <span class="span">서버</span>
+                        </h3>
+
+                        <p class="stats-text">아린이가 들어가있는 서버</p>
+                    </li>
+
+                    <li class="stats-item red">
+                        <h3 class="item-title">
+                            {{joiner}}
+                            <span class="span">가입자</span>
+                        </h3>
+
+                        <p class="stats-text">아린이 서비스에 가입한 유저</p>
+                    </li>
+
+                    <li class="stats-item green">
+                        <h3 class="item-title">
+                            3
+                            <span class="span">시즌</span>
+                        </h3>
+
+                        <p class="stats-text">현재 아린이 시즌</p>
+                    </li>
+
+                    <li class="stats-item yellow">
+                        <h3 class="item-title">
+                            5
+                            <span class="span">개발자</span>
+                        </h3>
+
+                        <p class="stats-text">팀 타임레스 개발자</p>
+                    </li>
+
+                </ul>
+
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+        <!--
+          - #SUPPORT
+        -->
+
+        <section class="section support" id="contact">
+            <div class="container">
+
+                <div class="support-content">
+                    <h2 class="h2 section-title">24/7 Customer Support</h2>
+
+                    <p class="section-text">
+                        Our team is here to provide you with personalized and outstanding service. We also offer a range of
+                        self-learning tools
+                        in our support center:
+                    </p>
+                </div>
+
+                <a class="btn btn-primary" href="/discord">서버 입장하기</a>
+
+            </div>
+        </section>
+
+    </article>
+</main>
+
+
+
+
+
+<!--
+  - #FOOTER
+-->
+
+<footer class="footer">
+
+
+
+    <div class="footer-bottom">
+        <div class="container">
+
+            <p class="copyright">
+                &copy; 2022 <span class="span">Aromax</span>. All rights reserved by <a class="copyright-link"
+                                                                                        href="#">diwasatreya</a>
+            </p>
+
+            <ul class="footer-bottom-list">
+
+                <li>
+                    <a class="footer-bottom-link" href="#">Privacy Policy</a>
+                </li>
+
+                <li>
+                    <a class="footer-bottom-link" href="#">Security</a>
+                </li>
+
+                <li>
+                    <a class="footer-bottom-link" href="#">Terms & Conditions</a>
+                </li>
+
+            </ul>
+
+        </div>
+    </div>
+
+</footer>
+
+
+
+
+
+<!--
+  - #BACK TO TOP
+-->
+
+<a aria-label="Back to top" class="back-top-btn" data-back-top-btn href="#top">
+    <ion-icon name="chevron-up"></ion-icon>
+</a>
+
+
+
+
+
+<!--
+  - custom js link
+-->
+<script defer src="./static/js/script.js"></script>
+
+<!--
+  - ionicon link
+-->
+<script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js" type="module"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
